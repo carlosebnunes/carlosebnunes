@@ -10,9 +10,10 @@
 ### About me
 I'm a System Analist and {backend, frontend and System} developer.
 - 🌱 I’m currently learning tec NODE.js, React, DevOps...
- 
-- Thanks for visiting.
-- Enjoy it!! o/
+
+
+//Thanks for visiting.
+//Enjoy it!! o/
 
 <!--
 **carlosebnunes/carlosebnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
