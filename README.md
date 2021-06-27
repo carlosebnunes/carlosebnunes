@@ -1,4 +1,4 @@
-![vXa6W5ye_400x400](https://user-images.githubusercontent.com/15498611/123547743-58a0b680-d738-11eb-9da2-4cd1dcc52219.jpg)
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/15498611/123547743-58a0b680-d738-11eb-9da2-4cd1dcc52219.jpg">
 
 ### Hi there 👋
 ### I'm Carlos! :D
