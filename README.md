@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/15498611/123547743-58a0b680-d738-11eb-9da2-4cd1dcc52219.jpg">
-
-### Hi there 👋
+### Hi there <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 ### I'm Carlos! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlosebnunes)](https://github.com/carlosebnunes)
