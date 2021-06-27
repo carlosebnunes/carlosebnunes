@@ -11,7 +11,7 @@ I'm a System Analist and {backend, frontend and System} developer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebnunes&layout=compact&theme=vue-dark)](https://github.com/carlosebnunes/github-readme-stats)
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosebnunes&show_icons=true&theme=radical)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosebnunes&show_icons=true&theme=vue-dark)
 
 //Thanks for visiting.
 //Enjoy it!! o/
