@@ -1,3 +1,5 @@
+![vXa6W5ye_400x400](https://user-images.githubusercontent.com/15498611/123547743-58a0b680-d738-11eb-9da2-4cd1dcc52219.jpg)
+
 ### Hi there 👋
 ### I'm Carlos! :D
 
@@ -9,6 +11,9 @@
 I'm a System Analist and {backend, frontend and System} developer.
 - 🌱 I’m currently learning tec NODE.js, React, DevOps...
  
+- Thanks for visiting.
+- Enjoy it!! o/
+
 <!--
 **carlosebnunes/carlosebnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
