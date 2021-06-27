@@ -5,13 +5,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosebnunes/)](https://www.linkedin.com/in/carlosebnunes/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/carlosebnunes)
 
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosebnunes&show_icons=true&theme=vue-dark)
+
 ### About me
 I'm a System Analist and {backend, frontend and System} developer.
 - 🌱 I’m currently learning .NET Core, NODE.js, React, DevOps...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebnunes&layout=compact&theme=vue-dark)](https://github.com/carlosebnunes/github-readme-stats)
-![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosebnunes&show_icons=true&theme=vue-dark)
 
 //Thanks for visiting.
 //Enjoy it!! o/
