@@ -7,8 +7,10 @@
 
 ### About me
 I'm a System Analist and {backend, frontend and System} developer.
-- 🌱 I’m currently learning tec NODE.js, React, DevOps...
+- 🌱 I’m currently learning NODE.js, React, DevOps...
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosebnunes&layout=compact)](https://github.com/carlosebnunes/github-readme-stats)
 
 //Thanks for visiting.
 //Enjoy it!! o/
