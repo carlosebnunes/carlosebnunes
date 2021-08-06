@@ -8,7 +8,7 @@
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosebnunes&show_icons=true&theme=blueberry)
 
 ### About me
-I'm a System Analist and {backend, frontend and System} developer.
+I'm a System Analist and {backend, frontend} developer.
 - 🌱 I’m currently learning .NET Core, NODE.js, ReactJs, DevOps...
 
 
